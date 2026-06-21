@@ -45,7 +45,7 @@
             <!-- /Main Content -->
             <footer class="main-footer">
                 <div class="footer-left">
-                    Copyright &copy; 2021 <div class="bullet"></div> Design By <a href="#">Revangga Aji
+                    Copyright &copy; {{ date('Y') }} <div class="bullet"></div> Design By <a href="#">Revangga Aji
                         Pratama</a>
                 </div>
                 <div class="footer-right">

@@ -89,7 +89,7 @@
                             </div>
                         </div>
                         <div class="simple-footer">
-                            Copyright &copy; 2021 {{ config('app.name') }}
+                            Copyright &copy; {{ date('Y')}} {{ config('app.name') }}
                         </div>
                     </div>
                 </div>
